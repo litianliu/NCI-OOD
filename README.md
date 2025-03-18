@@ -3,6 +3,9 @@
 This repository contains code for the paper [Detecting Out-of-Distribution through the Lens of Neural Collapse](https://arxiv.org/abs/2311.01479) (CVPR 2025) by Litian Liu and Yao Qin. The codebase is adapted from and integrated into the 
 [OpenOOD Benchmark](https://github.com/Jingkang50/OpenOOD/tree/main). 
 
+Explore related work:    
+> [![CVPR'25 fDBD](https://img.shields.io/badge/CVPR'25-fDBD-f4d5b3?style=for-the-badge)](https://github.com/litianliu/fDBD-OOD)
+
 ## Setup
 
 Please follow [OpenOOD](https://github.com/Jingkang50/OpenOOD) official instruction to complete the setup.
@@ -35,7 +38,7 @@ python scripts/eval_ood_imagenet.py \
 Please cite our paper if you find this codebase helpful! 
 
 ```bibtex
-@article{liu2024fast,
+@article{liu2025detecting,
   title={Detecting Out-of-Distribution through the Lens of Neural Collapse},
   author={Liu, Litian and Qin, Yao},
   journal={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
