@@ -4,7 +4,7 @@ This repository contains code for the paper [Detecting Out-of-Distribution throu
 [OpenOOD Benchmark](https://github.com/Jingkang50/OpenOOD/tree/main). 
 
 Explore related work:    
-> [![CVPR'25 fDBD](https://img.shields.io/badge/CVPR'25-fDBD-f4d5b3?style=for-the-badge)](https://github.com/litianliu/fDBD-OOD)
+> [![ICML'24 fDBD](https://img.shields.io/badge/ICML'24-fDBD-f4d5b3?style=for-the-badge)](https://github.com/litianliu/fDBD-OOD)
 
 ## Setup
 
